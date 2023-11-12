@@ -13,4 +13,8 @@ public class Duck {
     void quack() {
         System.out.println("Quack!!");
     }
+
+    void display() {
+        System.out.println("I'm duck");
+    }
 }
