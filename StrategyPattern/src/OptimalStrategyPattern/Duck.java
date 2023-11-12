@@ -23,7 +23,7 @@ public abstract class Duck {
 
     abstract void display();
 
-
+//  to set custom behaviour at runtime
     public void setFlyable(Flyable flyable) {
         this.flyable = flyable;
     }
